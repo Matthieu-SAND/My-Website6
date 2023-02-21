@@ -1,0 +1,25 @@
+@import url("https://fonts.googleapis.com/css2?family=Baskervville&family=Courier+Prime&display=swap");
+
+@import url("components/container.css");
+@import url("components/avatar.css");
+@import url("components/button.css");
+@import url("components/banner.css");
+@import url("components/card.css");
+
+
+h1, h2, h3 {
+	font-family: 'Courier Prime', monospace;
+	font-weight: bold;
+	text-align: center;
+}
+
+body {
+	font-family: 'Baskervville', serif;
+	font-size: 17px;
+	margin: 0px;
+}
+
+a {
+	text-decoration: none;
+}
+
